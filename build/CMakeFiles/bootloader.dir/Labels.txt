@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+S:/BKU/HK9/nhung/BTL1/build/CMakeFiles/bootloader
+S:/BKU/HK9/nhung/BTL1/build/CMakeFiles/bootloader.rule
+S:/BKU/HK9/nhung/BTL1/build/CMakeFiles/bootloader-complete.rule
+S:/BKU/HK9/nhung/BTL1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+S:/BKU/HK9/nhung/BTL1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+S:/BKU/HK9/nhung/BTL1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+S:/BKU/HK9/nhung/BTL1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+S:/BKU/HK9/nhung/BTL1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+S:/BKU/HK9/nhung/BTL1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+S:/BKU/HK9/nhung/BTL1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
